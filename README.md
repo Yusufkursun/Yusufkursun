@@ -29,6 +29,10 @@
 
 ### 📊 GitHub Stats  
 ![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusufkursun&show_icons=true&theme=radical)
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufkursun&layout=compact&theme=radical)
+### 🏆 GitHub Profile Trophy  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yusufkursun&theme=dracula)
 
 ---
 

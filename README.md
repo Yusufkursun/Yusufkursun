@@ -28,7 +28,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ### 📊 GitHub Stats  
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yusufkursun&show_icons=true&theme=radical)
 
 ---
 
